@@ -22,7 +22,7 @@ function App() {
           </div>
 
           <a
-            href="https://github.com/AdityaSrivastavaaa/testappclubbuddywebsite/releases/download/v1.0.4/application-b73d8c36-77e6-40fb-8669-9ae01109541e.apk"
+            href="https://github.com/AdityaSrivastavaaa/testappclubbuddywebsite/releases/download/v1.0.5/application-6d72acdf-1407-4880-a7f0-834396ced293.apk"
             className="rounded-full border border-indigo-500/60 bg-indigo-500/10 px-4 py-1.5 text-xs font-medium text-indigo-200 hover:bg-indigo-500/20 transition"
           >
             Download APK
@@ -89,7 +89,7 @@ function App() {
             {/* Download section */}
             <div id="download" className="space-y-3 pt-3">
               <a
-                href="https://github.com/AdityaSrivastavaaa/testappclubbuddywebsite/releases/download/v1.0.4/application-b73d8c36-77e6-40fb-8669-9ae01109541e.apk"
+                href="https://github.com/AdityaSrivastavaaa/testappclubbuddywebsite/releases/download/v1.0.5/application-6d72acdf-1407-4880-a7f0-834396ced293.apk"
   
                 className="inline-flex items-center gap-2 rounded-2xl bg-indigo-500 px-5 py-3 text-sm font-semibold text-white shadow-lg shadow-indigo-500/40 hover:bg-indigo-400 active:scale-[0.98] transition"
               >
